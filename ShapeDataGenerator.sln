@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeDataGenerator", "ShapeDataGenerator\ShapeDataGenerator.csproj", "{F3D1E6AD-3F94-4252-A315-3AAE68212A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGeneratorTest", "DataGeneratorTest\DataGeneratorTest.csproj", "{74F55A5C-D92F-4C9C-A6C3-2EFF6A0A85B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D1E6AD-3F94-4252-A315-3AAE68212A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D1E6AD-3F94-4252-A315-3AAE68212A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D1E6AD-3F94-4252-A315-3AAE68212A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D1E6AD-3F94-4252-A315-3AAE68212A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F55A5C-D92F-4C9C-A6C3-2EFF6A0A85B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F55A5C-D92F-4C9C-A6C3-2EFF6A0A85B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F55A5C-D92F-4C9C-A6C3-2EFF6A0A85B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F55A5C-D92F-4C9C-A6C3-2EFF6A0A85B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773937FE-5436-4D5C-88F4-3E9C8EA6F7FF}
+	EndGlobalSection
+EndGlobal
